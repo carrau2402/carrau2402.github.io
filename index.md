@@ -7,3 +7,5 @@ Hier soll ich also allerhand Zeugs zu Brad Pitt schreiben. Leider habe ich keine
 
 Brad said:
 > ich bin doof
+
+<img src="C:\Users\carol\Desktop\Leonie's Fotos"/>
