@@ -4,3 +4,6 @@ Hier soll ich also allerhand Zeugs zu Brad Pitt schreiben. Leider habe ich keine
 * blond
 * geschieden
 * titanic
+
+Brad said:
+> ich bin doof
